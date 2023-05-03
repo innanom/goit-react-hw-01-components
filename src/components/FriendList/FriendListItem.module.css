@@ -1,0 +1,31 @@
+.item {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+
+    padding: 15px;
+    
+    width: 150px;
+
+    font-size: 18px;
+    font-weight: 600;
+
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #2d3131ed;
+}
+
+.status {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.true {
+    background-color: green;
+}
+
+.false {
+    background-color: red;
+}
