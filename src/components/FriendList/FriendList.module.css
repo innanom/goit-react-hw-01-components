@@ -1,0 +1,23 @@
+
+.friend_list {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+
+
+}
+.item{
+    display: flex;
+}
+.status {
+    width: 20px;
+    height: 20px;   
+    border-radius: 50%;
+}
+.true {
+    background-color: green;
+}
+.false {
+    background-color: red;
+}
