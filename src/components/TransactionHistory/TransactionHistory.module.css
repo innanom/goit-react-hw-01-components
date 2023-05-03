@@ -1,0 +1,24 @@
+.transaction_history {
+    margin: auto;
+    margin-top: 40px;
+
+    width: 500px;
+
+    border-collapse: collapse;
+    border: 1ppx solid grey;
+}
+th {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 15px;
+
+    background-color: #5a69eca1;
+}
+
+td {
+    font-size: 18px;
+    padding: 10px;
+
+    text-align: center;
+    background-color: #9a84e95d;
+}
